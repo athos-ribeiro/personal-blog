@@ -1,0 +1,7 @@
+echo 'Clean up'
+rm -rfI public
+echo 'Compiling new content'
+hugo
+echo 'Pushing changes...'
+rsync -avz --delete public/ blog:blog
+echo 'done'
