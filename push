@@ -1,7 +1,18 @@
-echo 'Clean up'
-rm -rfI public
+#!/bin/sh
+
+REMOTE_SERVER="blog"
+SITE_PATH="blog"
+
+if [ -d public ]
+then
+  echo 'Clean up'
+  rm -rfI public
+fi
+
 echo 'Compiling new content'
 hugo
+
 echo 'Pushing changes...'
-rsync -avz --delete public/ blog:blog
-echo 'done'
+rsync -avz --delete public/ $REMOTE_SERVER:$SITE_PATH
+
+echo "done."
