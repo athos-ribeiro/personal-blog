@@ -1,7 +1,7 @@
 #!/bin/sh
 
 REMOTE_SERVER="blog"
-SITE_PATH="blog"
+SITE_PATH="/var/www/blog"
 
 if [ -d public ]
 then
