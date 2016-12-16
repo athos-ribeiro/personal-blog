@@ -6,6 +6,9 @@ date = "2016-12-15T22:28:16-02:00"
 menu = "main"
 title = "Fórum Goiano de Software Livre + Fedora 25 Release Party"
 
+
++++
+
 ![Ana, eu e Fred](https://athoscr.fedorapeople.org/pictures/fgsl_fedora.jpg)
 
 A oitava edição do Fórum Goiano de Software Livre foi realizada em Goiânia, no
@@ -71,6 +74,3 @@ Nossa Release Party poderia ter sido em outro lugar, onde seria mais produtiva,
 porém foi interessante conhecer duas pessoas fantásticas com quem eu vinha
 interagindo frequentemente em IRC e listas de email e poder dar esse passo a
 mais dentro da comunidade.
-
-+++
-
