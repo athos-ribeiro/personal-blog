@@ -8,7 +8,7 @@ title = "Hackathon Cotidiano"
 
 +++
 
-![Dia de apresentação](http://athoscr.me/images/apresentacao_cotidiano.jpg)
+![Dia de apresentação](https://athoscr.me/images/apresentacao_cotidiano.jpg)
 
 Entre os dias 9 e 15 de Julho a [Cotidiano](http://www.cotidiano.com.br/) realizou sua primeira *Hackathon* em Brasília. Como eu estava de férias por lá, resolvi participar.
 
@@ -28,7 +28,7 @@ O primeiro dia foi um dia de apresentações, levantamento de idéias para aplic
 
 Nossa equipe foi formada pelo [Fabrício Raphael](https://github.com/fabricioraphael), estudante de engenharia de software que conhecemos no primeiro dia, pelo [Matheus Fernandes](https://github.com/msfernandes), colega de [LAPPIS](http://lappis.unb.br), Universidade de Brasília e agora funcionário do LabHacker da Câmara dos Deputados e por mim.
 
-![Dia de apresentação](http://athoscr.me/images/hack_cotidiano_eq.jpg) 
+![Dia de apresentação](https://athoscr.me/images/hack_cotidiano_eq.jpg) 
 Matheus, eu e Fabrício
 
 Ao longo da semana desenvolvemos um software que
@@ -40,7 +40,7 @@ Ao longo da semana desenvolvemos um software que
 
 No último dia ainda não tinhamos nem um nome e nem uma logo, então o Dudu da Cotidiano apareceu e resolveu nosso problema:
 
-![Tenho Dito](http://athoscr.me/images/tenho_dito.png)
+![Tenho Dito](https://athoscr.me/images/tenho_dito.png)
 Obrigado, Dudu!
 
 ### Último dia e resultado da *hackathon*

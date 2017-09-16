@@ -7,12 +7,12 @@ title = "CPAN Pull Request Challenge"
 +++
 Seguindo o modelo do [sawyer_x](http://blogs.perl.org/users/sawyer_x/2015/01/cpan-pull-request-challenge---resources-available.html) e sem ter certeza se alguém já postou algo em português, lhes apresento o CPAN Pull Request Challenge:
 
-Acordei (não mencionarei a ressaca) no primeiro dia do ano, e na preguiça de me levantar fui ler os feeds do aplicativo do site de busca [DuckDuckGo](http://www.duckduckgo.com/). É um feed de notícias bem legal que agrega notícias de sites como [reddit](http://athoscr.me/cpanpr/www.reddit.com), [lifehacker](http://athoscr.me/cpanpr/www.lifehacker.com), etc. Lá me deparei com um título que chamou atenção: [CPAN Pull Request Challenge](http://neilb.org/2014/11/29/pr-challenge-2015.html).
+Acordei (não mencionarei a ressaca) no primeiro dia do ano, e na preguiça de me levantar fui ler os feeds do aplicativo do site de busca [DuckDuckGo](http://www.duckduckgo.com/). É um feed de notícias bem legal que agrega notícias de sites como [reddit](https://athoscr.me/cpanpr/www.reddit.com), [lifehacker](https://athoscr.me/cpanpr/www.lifehacker.com), etc. Lá me deparei com um título que chamou atenção: [CPAN Pull Request Challenge](http://neilb.org/2014/11/29/pr-challenge-2015.html).
 
 ##### O desafio
 
 1. Você manda um email para o criador do desafio, Neil Bowers, se apresentando e mostrando interesse em participar.
-2. No começo do mês, o Neil atribui uma distribuição de Perl, que deve estar no [CPAN](http://en.wikipedia.org/wiki/CPAN) e no [github](http://athoscr.me/cpanpr/www.github.com), à cada participante.
+2. No começo do mês, o Neil atribui uma distribuição de Perl, que deve estar no [CPAN](http://en.wikipedia.org/wiki/CPAN) e no [github](https://athoscr.me/cpanpr/www.github.com), à cada participante.
 3. O participante tem até o fim do mês para enviar um [pull request](https://help.github.com/articles/using-pull-requests/) no github do projeto que lhe foi atribuido.
 4. goto 2 unless year > 2015
 

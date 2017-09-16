@@ -23,7 +23,7 @@ OK for marketing campaigns, but people should not assume everyone is always
 able to read HTML emails all the time. I like to use [mutt](www.mutt.org) to
 read my emails, so This is what I see when you send me an HTML email:
 
-![A HTML email](http://athoscr.me/images/html_email.png)
+![A HTML email](https://athoscr.me/images/html_email.png)
 
 Really, if you do not need to send HTML in your message, make sure your email
 client is set to send plain text messages. I tend to ignore emails in HTML,

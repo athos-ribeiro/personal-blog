@@ -12,7 +12,7 @@ Since a few people have been downloading this add-on, I decided it needed some l
 
 In a few hours I got a reply from /u/wnhDanny with a nice logo for the add-on:
 
-![noturno logo](http://athoscr.me/images/noturno_logo.png)
+![noturno logo](https://athoscr.me/images/noturno_logo.png)
 
 Here is my post in the subreddit: https://www.reddit.com/r/freedesign/comments/436pk9/requestlogoforfirefoxaddon/
 
