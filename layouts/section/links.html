@@ -1,0 +1,41 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "menu.html" . }}
+
+<div class="wrapper">
+	
+<h2>Useful Links</h2>
+<div class="units-row">
+<div class="unit-70">
+{{ range .Data.Pages.GroupByParam "category" }}
+<div class="units-row">
+<div class="unit-20">
+<h3>{{ .Key }}</h3>
+</div>
+<div class="unit-80">
+<ul class="fa-ul">
+{{ range .Pages }}
+<li><i class="fa-li fa fa-external-link fa-fw" style="color:#b00;font-size:80%;padding-top:6px;"></i>
+  <a href="{{ .Params.uri }}">{{ .Title | safeHTML }}</a>
+<br>
+{{ .Params.description | safeHTML }}
+</li>
+{{ end }}
+</ul>
+</div>
+</div>
+{{ end }}
+</div>
+<div class="unit-30">
+<p>Links related to my research, Free and Open Source Software and other things I find interesting.</p>
+</div>
+</div>
+</div>
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
+</body>
+</html>

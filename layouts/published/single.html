@@ -1,0 +1,36 @@
+{{ partial "head.html" . }}
+<body>
+{{ partial "menu.html" . }}
+
+<div class="wrapper">
+	
+<div class="units-row">		
+<div class="unit-20">&nbsp;</div>
+<div class="unit-60"><h2><a href="">{{ .Title | safeHTML }}</a></h2></div>
+</div>
+<div class="units-row">		
+  <div class="unit-20 dateblock"><p> &ldquo;{{ .Title | safeHTML }}&rdquo; {{ .Params.author | safeHTML }} <em>{{ .Params.citation | safeHTML }}</em></p>
+    {{ if .Params.file }}<p><a href="{{ .Site.BaseURL }}/papers/{{.Params.file}}" class="badge badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;download pdf</a></p>{{ end }}
+{{ if .Params.proceedings }}<p><a href="{{.Params.proceedings}}" class="badge badge-red"><i class="fa fa-newspaper-o"></i>&nbsp;Conference Proceedings</a></p>{{ end }}
+</div>
+<div class="unit-60">
+{{ .Content }}
+
+<hr>
+{{ if .PrevInSection }}
+<a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> | {{ end }}<a href="{{ .Site.BaseURL }}/publication">Publications</a>{{ if .NextInSection }} | <a href="{{.NextInSection.Permalink}}">{{.NextInSection.Title}}&nbsp;&rarr;</a>
+{{ end }}
+</div>
+	
+</div>
+</div>
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
+</body>
+</html>
+
+

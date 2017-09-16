@@ -1,4 +1,4 @@
-theme = "uno"
+# theme = ""
 languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
@@ -8,8 +8,6 @@ canonifyurls = true
 title = "/home/athos"
 author = "Athos Ribeiro"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-
-
 [indexes]
 category = "categories"
 tag = "tags"
@@ -19,7 +17,7 @@ github = "athos-ribeiro"
 gitlab = "athos-ribeiro"
 academic = "http://www.ime.usp.br/~athoscr"
 # twitter = "senjindarshiva"
-email = "athoscribeiro@gmail.com"
+email = "athoscr@fedoraproject.org"
 description = "Free Software, society and stuff"
 # cv = "/pages/cv"
 # legalnotice = "/pages/legal-notice"
@@ -27,4 +25,7 @@ description = "Free Software, society and stuff"
 linkedin = "athos-ribeiro-521358114"
 cover = "/images/zephyr_stickers.jpg"
 # logo = "/img/logo-1.jpg"
-
+[taxonomies]
+    tag = "tags"
+#[author]
+    #name = "Athos Ribeiro"
