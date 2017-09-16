@@ -1,4 +1,5 @@
 # theme = ""
+disqusShortname = "athoscr"
 languageCode = "en-us"
 contentdir = "content"
 publishdir = "public"
