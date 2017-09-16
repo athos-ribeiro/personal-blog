@@ -255,7 +255,7 @@ a {
 }
 a:focus,
 a:hover {
-  color: #de2c3b;
+  color: #db3279;
 }
 /* =Headings
 -----------------------------------------------------------------------------*/
@@ -1220,7 +1220,7 @@ input.input-error,
 textarea.input-error,
 select.input-error,
 .input-error {
-  border-color: #de2c3b;
+  border-color: #db3279;
   box-shadow: 0 0 0 2px rgba(222, 44, 59, 0.3), 0 1px 2px rgba(0, 0, 0, 0.2) inset;
 }
 input.input-success,
@@ -1394,7 +1394,7 @@ input.input-smaller {
   text-decoration: none;
 }
 .navbar a:hover {
-  color: #de2c3b;
+  color: #db3279;
   text-decoration: underline;
 }
 .navbar li.active a,
@@ -1499,7 +1499,7 @@ input.input-smaller {
   text-decoration: none;
 }
 .nav a:hover {
-  color: #de2c3b;
+  color: #db3279;
   text-decoration: underline;
 }
 .nav li.active a,
@@ -1924,7 +1924,7 @@ input[type="submit"].btn-blue.btn-outline.btn-active {
 .btn-red,
 input[type="submit"].btn-red {
   color: rgba(255, 255, 255, 0.9);
-  background: #de2c3b;
+  background: #db3279;
 }
 .btn-red:hover,
 input[type="submit"].btn-red:hover {
@@ -1955,13 +1955,13 @@ input[type="submit"].btn-red.btn[disabled]:hover {
 .btn-red.btn-outline,
 input[type="submit"].btn-red.btn-outline {
   background: none;
-  border-color: #de2c3b;
-  color: #de2c3b;
+  border-color: #db3279;
+  color: #db3279;
 }
 .btn-red.btn-outline:hover,
 input[type="submit"].btn-red.btn-outline:hover {
   color: rgba(255, 255, 255, 0.9);
-  background: #de2c3b;
+  background: #db3279;
 }
 .btn-red.btn-outline.btn[disabled],
 input[type="submit"].btn-red.btn-outline.btn[disabled],
@@ -2008,13 +2008,13 @@ input[type="submit"].btn-red.btn[disabled]:hover {
 .btn-red.btn-outline,
 input[type="submit"].btn-red.btn-outline {
   background: none;
-  border-color: #de2c3b;
-  color: #de2c3b;
+  border-color: #db3279;
+  color: #db3279;
 }
 .btn-red.btn-outline:hover,
 input[type="submit"].btn-red.btn-outline:hover {
   color: rgba(255, 255, 255, 0.9);
-  background: #de2c3b;
+  background: #db3279;
 }
 .btn-red.btn-outline.btn[disabled],
 input[type="submit"].btn-red.btn-outline.btn[disabled],
@@ -2565,7 +2565,7 @@ input[type="submit"].btn-white.btn-outline.btn-active {
   background: #2575ed;
 }
 .tools-message-red {
-  background: #de2c3b;
+  background: #db3279;
 }
 .tools-message-yellow {
   background: #ffc800;
@@ -2634,7 +2634,7 @@ input[type="submit"].btn-white.btn-outline.btn-active {
 }
 .label-red,
 .badge-red {
-  background: #de2c3b;
+  background: #db3279;
 }
 .label-green,
 .badge-green {
@@ -2662,8 +2662,8 @@ input[type="submit"].btn-white.btn-outline.btn-active {
   color: #2575ed;
 }
 .label-red.label-outline {
-  border-color: #de2c3b;
-  color: #de2c3b;
+  border-color: #db3279;
+  color: #db3279;
 }
 .label-green.label-outline {
   border-color: #2c9f42;
@@ -2863,7 +2863,7 @@ input[type="submit"].btn-white.btn-outline.btn-active {
   background: #0f0f0f;
 }
 .tooltip-theme-red {
-  background: #de2c3b;
+  background: #db3279;
 }
 .tooltip-theme-blue {
   background: #2575ed;
@@ -3160,10 +3160,10 @@ ul.dropdown li.divider {
 .req,
 .required {
   font-weight: normal;
-  color: #de2c3b;
+  color: #db3279;
 }
 .error {
-  color: #de2c3b;
+  color: #db3279;
 }
 .success {
   color: #2c9f42;

@@ -20,7 +20,7 @@ form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegrey
 h1, h2, h3, h4, h5 {
 	font-family: 'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;
 	font-style: italic;
-	color: #b24;
+	color: #3c6eb4;
 }
 h2, h3, h4, h5 {
 	font-weight: normal;
@@ -33,10 +33,10 @@ h2, h3 {
 }
 
 .label-red {
-  background-color: #b24;
+  background-color: #3c6eb4;
 }
 
-a {color: #b24; text-decoration:none;}
+a {color: #3c6eb4; text-decoration:none;}
 a:hover {text-decoration:underline;}
 
 
@@ -61,11 +61,11 @@ font-family: 'Alegreya SC'; }
 
 .compact { margin: 0 0 0 1.3em; }
 
-hr {border-top: 1px solid #ecc; margin-top:5ex; margin-bottom: 5ex;}
+hr {border-top: 1px solid #dedede; margin-top:5ex; margin-bottom: 5ex;}
 
-.separator {border-top: 5px solid #ecc;}
+.separator {border-top: 5px solid #dedede;}
 
-h2 {border-bottom: 1px solid #ecc;} 
+h2 {border-bottom: 1px solid #dedede;} 
 
 /* =Layout
 -----------------------------------------------------------------------------*/
@@ -92,22 +92,22 @@ h2 {border-bottom: 1px solid #ecc;}
 }
 
 #topbar {
-	background: #b33;
+	background: #3c6eb4;
 	padding:0px;
 	margin:0ex;
-	/* border-bottom: 3px solid #b24; */
+	/* border-bottom: 3px solid #3c6eb4; */
 }  
 #midbar {
 	background: #eaa;
 	padding:0px;
 	margin:0ex;
-	/* border-bottom: 3px solid #b24; */
+	/* border-bottom: 3px solid #3c6eb4; */
 }  
 
 
 #topbar .navbar {padding-bottom:14px; font-size:120%;} 
 #topbar li a {color: #fff;}
-#topbar li a {color: #ecc;}
+#topbar li a {color: #dedede;}
 #topbar li span a {color: #fff;}
 
 .avatar {
@@ -229,16 +229,16 @@ header h1 {	font-size: 24px;
 /* =Footer
 -----------------------------------------------------------------------------*/
 #footer {
-	color: #ecc;
+	color: #dedede;
 	margin-top: 3ex;
 	padding-bottom: 20px;
 	font-size: .9em;
 	padding-top: 1em;
-	background-color: #b33;
+	background-color: #3c6eb4;
 	overflow: hidden;
 /*	box-shadow: 0 2px 4px #bbb inset;*/
 /*	background: #f0f0f0;*/
-	border-top: 3px solid #b24;
+	border-top: 3px solid #3c6eb4;
 }
 #footer a { color: #fff; }
 #footer section {
