@@ -59,7 +59,7 @@ resize2fs 1.43.4 (31-Jan-2017)
 Resizing the filesystem on /dev/mmcblk1p2 to 419072 (4k) blocks.
 The filesystem on /dev/mmcblk1p2 is now 419072 (4k) blocks long.
 ```
-Ii is also nice to copy your ssh credentials to the Raspberry, as pointed in
+It is also nice to copy your ssh credentials to the Raspberry, as pointed in
 Pignus website
 
 ```
