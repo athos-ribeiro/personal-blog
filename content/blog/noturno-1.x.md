@@ -3,7 +3,6 @@ title = "Porting noturno to WebExtensions"
 date = "2017-09-25T15:48:31-03:00"
 tags = [ "noturno", "Firefox", "Proxy" ]
 Categories = [ "Programming" ]
-draft =  true
 +++
 
 About a year ago, I decided to write
