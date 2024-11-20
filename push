@@ -7,6 +7,7 @@ if [ -d public ]
 then
   echo 'Clean up'
   rm -rfI public
+  git clean -xdf
 fi
 
 echo 'Compiling new content'
