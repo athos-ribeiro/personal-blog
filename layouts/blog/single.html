@@ -14,10 +14,6 @@
 {{ .Content }}
 
 <hr>
-<h3>Comments</h3>
-{{ partial "disqus.html" . }}
-
-<hr>
 {{ if .PrevInSection }}
 <a href="{{.PrevInSection.Permalink}}"> &larr;&nbsp;{{.PrevInSection.Title}}</a> |
 {{ end }}
