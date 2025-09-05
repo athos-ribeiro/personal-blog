@@ -1,31 +1,22 @@
 +++
-date = "2024-11-30T06:11:11-03:00"
+date = "2025-09-05T09:00:00-03:00"
 +++
 
 ### Ubuntu
 
-I am currently working on the next Ubuntu release, plucky puffin. There, I am
+I am currently working on the next Ubuntu release, questing quokka (25.10). There, I am
 preparing the next versions of packages in the container stack (docker,
-containerd, runc), the high availability packages (pacemaker, corosync, etc),
-PHP (the interpreter, extensions, and other related packages), and PostgreSQL.
+containerd, runc) and PostgreSQL.
 
 ### Debian
 
-I have been mostly forwarding the work I do in Ubuntu to Debian and preparing a
-new version of isc-kea (2.6).
+I have been mostly forwarding the work I do in Ubuntu to Debian.
 
 ### Reading
-
-**Capitães da areia**.  This is a novel from 1937 by the Brazilian writer
-**Jorge Amado** about the life of a group of children living on the streets
-of Salvador, Bahia.
 
 **Learning eBPF**.  This is a nice and practical introductory book on eBPF I
 used to get started with writting the [Ubuntu Server introduction to
 eBPF](https://documentation.ubuntu.com/server/explanation/intro-to/ebpf/#introduction-to-ebpf).
-
-**Linkers and Loaders**.  This is a classic, but it is not an easy read at
-all if you really want to dive in the topic.
 
 ### Studying
 
