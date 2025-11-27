@@ -2,7 +2,7 @@
 
 This is the repository for my personal blog.
 
-You can find it at athoscr.me
+You can find it at ar.dev.br
 
 ## How did you do it?
 
