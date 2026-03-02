@@ -1,30 +1,29 @@
 +++
-date = "2025-09-05T09:00:00-03:00"
+date = "2026-03-02T09:00:00-03:00"
 +++
 
 ### Ubuntu
 
-I am currently working on the next Ubuntu release, questing quokka (25.10). There, I am
+I am currently working on the next Ubuntu release, resolute raccoon (26.04). There, I am
 preparing the next versions of packages in the container stack (docker,
-containerd, runc) and PostgreSQL.
+containerd, runc), PostgreSQL, isc-kea and other Server related packages.
 
 ### Debian
 
-I have been mostly forwarding the work I do in Ubuntu to Debian.
+I have been mostly forwarding the work I do in Ubuntu to Debian. I also have
+been working on the 3.x version of the isc kea package.
 
 ### Reading
 
-**Learning eBPF**.  This is a nice and practical introductory book on eBPF I
-used to get started with writting the [Ubuntu Server introduction to
-eBPF](https://documentation.ubuntu.com/server/explanation/intro-to/ebpf/#introduction-to-ebpf).
+**Container Security**. I am going though this book from Liz Rice on the ins
+and outs of how container software is written and its isolation guarantees.
 
 ### Studying
 
 I have been going through [Crafting
-Interpreters](https://craftinginterpreters.com/) and implementing the first
-part of the book in Rust instead of using the book's code, which is in Java.
-This way, I can study the 2 topics (compilers and Rust) at the same time.  The
-second part of the book is written in C to show students the issues one may
-face while having to deal with memory management. I am considering doing that
-part in RiscV assembly when the time comes. I may need to get myself some RiscV
-board for that matter though.
+Interpreters](https://craftinginterpreters.com/) and **slowly** implementing
+the first part of the book in Rust instead of using the book's code, which is
+in Java.  This way, I can study the 2 topics (compilers and Rust) at the same
+time. The second part of the book is written in C to show students the issues
+one may face while having to deal with memory management. I am considering
+doing that part in some sort of assembly when the time comes.
